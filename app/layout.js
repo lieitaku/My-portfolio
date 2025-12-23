@@ -19,7 +19,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Li Yongze | Portfolio",
+  title: "LI YONGZE | Portfolio",
   description: "Digital Designer & Developer",
 };
 
