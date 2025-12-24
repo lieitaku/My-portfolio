@@ -198,12 +198,12 @@ const StickyHero = ({ baseIndex, onScrollClick }) => {
          <div className="relative z-10 select-none mt-10 md:mt-0 w-full max-w-7xl mx-auto">
             <h1 className="font-serif font-black leading-none tracking-tighter mb-12 group cursor-default">
               <div className="relative w-fit mb-4 md:mb-6 transition-all duration-300">
-                <span className="block bg-[#111] text-[#F4F4F0] px-4 py-3 text-[4.5vw] md:text-[5vw] shadow-[10px_10px_0px_rgba(0,0,0,0.2)] transform transition-transform duration-300 group-hover:-translate-y-2 group-hover:-rotate-1">
+                <span className="block bg-[#111] text-[#F4F4F0] px-4 py-3 text-[4vw] md:text-[4vw] shadow-[10px_10px_0px_rgba(0,0,0,0.2)] transform transition-transform duration-300 group-hover:-translate-y-2 group-hover:-rotate-1">
                    言語学の知見を、UIの論理へ。
                 </span>
               </div>
               <div className="relative w-fit ml-[5vw] -mt-6 md:-mt-10 transition-all duration-300">
-                <span className="block bg-[#111] text-[#F4F4F0] px-4 py-3 text-[4.5vw] md:text-[5vw] shadow-[10px_10px_0px_rgba(0,0,0,0.2)] border-2 border-[#F4F4F0] transform transition-transform duration-300 group-hover:translate-x-2 group-hover:rotate-1">
+                <span className="block bg-[#111] text-[#F4F4F0] px-4 py-3 text-[4vw] md:text-[4vw] shadow-[10px_10px_0px_rgba(0,0,0,0.2)] border-2 border-[#F4F4F0] transform transition-transform duration-300 group-hover:translate-x-2 group-hover:rotate-1">
                   「対話」の構造をデザインする。
                 </span>
               </div>
